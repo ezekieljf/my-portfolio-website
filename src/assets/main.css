@@ -1,0 +1,41 @@
+* {
+    font-family: Roboto;
+}
+
+body {
+    background-color: black;
+    color: #FFFFFF;
+}
+
+#navibar {
+    background-color: black;
+}
+
+#landing-text {
+    border: 1px solid #83DBD8;
+    background-color: #070D0D;
+}
+
+.sections {
+    text-transform: uppercase;
+    color: #00C9C8;
+}
+
+#pfp {
+    width: 15em; 
+    height: 15em; 
+    object-fit: cover;
+}
+
+.card-change {
+    background-color: #061011; 
+    color: #e5e7eb;
+}
+
+.tools-color {
+    background-color: #000000;
+}
+
+#map {
+    border: 0;
+}

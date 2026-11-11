@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "E-commerce API Documentation",
+    "description": "Dynamic E-Commerce Workflow Management. The system features dynamic routes for order processing, real-time inventory updates, and secures user authentication. It also supports seamless automated order reporting and comprehensive product management. Documented Backend API published publicly using Postman.",
+    "img_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqUzgJGiSmQD60w4oefD3BLWauTv4tFhPkvYNJpg2ETyBhkLa9B841fdU&s=10",
+    "img_alt": "Analytics dashboard",
+    "view_product_link": "#"
+  },
+  {
+    "id": 2,
+    "title": "Course Booking API Documentation",
+    "description": "RESTful API for managing course enrollments, featuring user registration, authentication, and retrieval of user details. Supprots course creation, updates, archiving, activation, and student enrollment. Publicly documented using Postman.",
+    "img_src": "https://img.magnific.com/premium-vector/book-flight-schedule-woman-booking-ticket-smartphone-flat-illustration_424022-553.jpg?semt=ais_hybrid&w=740&q=80",
+    "img_alt": "Data visualization dashboard",
+    "view_product_link": "#"
+  },
+  {
+    "id": 3,
+    "title": "Course booking App",
+    "description": "A MERN-stack course enrollment system featuring user registration, authentication, and profile management. Authenticated users can create, update, archive, and activate courses. The platform also allows users to browse available courses and enroll seamlessly.",
+    "img_src": "https://cdn.prod.website-files.com/63654bd86ca1f62de498214b/667d354cdf0709bf130863b7_booking.jpg",
+    "img_alt": "Workflow automation workspace",
+    "view_product_link": "#"
+  },
+  {
+    "id": 4,
+    "title": "E-commerce App",
+    "description": "MERN E-Commerce Platform. The platform features dynamic product catalog with filtering and sorting, real-time search, seamless cart updates, secure checkout, and a comprehensive admin dashboard with real-time analytics and suer management capabilities.",
+    "img_src": "https://st2.depositphotos.com/4320929/8047/v/450/depositphotos_80472276-stock-illustration-flat-3d-web-isometric-e.jpg",
+    "img_alt": "Workflow automation workspace",
+    "view_product_link": "#"
+  },
+  {
+    "id": 5,
+    "title": "Airline Booking System Mockup",
+    "description": "Side ProjectL Conceptual design showcasing an intuitive UI for flight search, seat selection, and booking confirmation, focusing on user experience and workflow efficiency.",
+    "img_src": "https://img.magnific.com/free-vector/flat-design-online-ticket-illustration_23-2151089548.jpg?semt=ais_hybrid&w=740&q=80",
+    "img_alt": "Workflow automation workspace",
+    "view_product_link": "#"
+  },
+  {
+    "id": 6,
+    "title": "Airline Booking System Prototype",
+    "description": "Side Project: Interactive prototype simulating end-to-end airline booking functionalities, including flight search, reservation, payment processing, and real-time ticket management",
+    "img_src": "https://img.magnific.com/free-vector/flat-design-online-ticket-illustration_23-2151089548.jpg?semt=ais_hybrid&w=740&q=80",
+    "img_alt": "Workflow automation workspace",
+    "view_product_link": "#"
+  },
+  {
+    "id": 7,
+    "title": "Short Courses Capstone",
+    "description": "Placeholder for your Short courses capstone project",
+    "img_src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=800&q=80",
+    "img_alt": "Workflow automation workspace",
+    "view_product_link": "#"
+  },
+  {
+    "id": 8,
+    "title": "Short Courses Capstone",
+    "description": "Placeholder for your Short courses capstone project",
+    "img_src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=800&q=80",
+    "img_alt": "Workflow automation workspace",
+    "view_product_link": "#"
+  },
+  {
+    "id": 9,
+    "title": "Short Courses Capstone",
+    "description": "Placeholder for your Short courses capstone project",
+    "img_src": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=800&q=80",
+    "img_alt": "Workflow automation workspace",
+    "view_product_link": "#"
+  }
+]
